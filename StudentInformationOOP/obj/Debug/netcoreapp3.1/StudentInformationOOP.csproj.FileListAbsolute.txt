@@ -1,0 +1,14 @@
+C:\Users\Huynh Cong Chien\source\repos\StudentInformationOOP\StudentInformationOOP\bin\Debug\netcoreapp3.1\StudentInformationOOP.exe
+C:\Users\Huynh Cong Chien\source\repos\StudentInformationOOP\StudentInformationOOP\bin\Debug\netcoreapp3.1\StudentInformationOOP.deps.json
+C:\Users\Huynh Cong Chien\source\repos\StudentInformationOOP\StudentInformationOOP\bin\Debug\netcoreapp3.1\StudentInformationOOP.runtimeconfig.json
+C:\Users\Huynh Cong Chien\source\repos\StudentInformationOOP\StudentInformationOOP\bin\Debug\netcoreapp3.1\StudentInformationOOP.runtimeconfig.dev.json
+C:\Users\Huynh Cong Chien\source\repos\StudentInformationOOP\StudentInformationOOP\bin\Debug\netcoreapp3.1\StudentInformationOOP.dll
+C:\Users\Huynh Cong Chien\source\repos\StudentInformationOOP\StudentInformationOOP\bin\Debug\netcoreapp3.1\StudentInformationOOP.pdb
+C:\Users\Huynh Cong Chien\source\repos\StudentInformationOOP\StudentInformationOOP\obj\Debug\netcoreapp3.1\StudentInformationOOP.csproj.AssemblyReference.cache
+C:\Users\Huynh Cong Chien\source\repos\StudentInformationOOP\StudentInformationOOP\obj\Debug\netcoreapp3.1\StudentInformationOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huynh Cong Chien\source\repos\StudentInformationOOP\StudentInformationOOP\obj\Debug\netcoreapp3.1\StudentInformationOOP.AssemblyInfoInputs.cache
+C:\Users\Huynh Cong Chien\source\repos\StudentInformationOOP\StudentInformationOOP\obj\Debug\netcoreapp3.1\StudentInformationOOP.AssemblyInfo.cs
+C:\Users\Huynh Cong Chien\source\repos\StudentInformationOOP\StudentInformationOOP\obj\Debug\netcoreapp3.1\StudentInformationOOP.csproj.CoreCompileInputs.cache
+C:\Users\Huynh Cong Chien\source\repos\StudentInformationOOP\StudentInformationOOP\obj\Debug\netcoreapp3.1\StudentInformationOOP.dll
+C:\Users\Huynh Cong Chien\source\repos\StudentInformationOOP\StudentInformationOOP\obj\Debug\netcoreapp3.1\StudentInformationOOP.pdb
+C:\Users\Huynh Cong Chien\source\repos\StudentInformationOOP\StudentInformationOOP\obj\Debug\netcoreapp3.1\StudentInformationOOP.genruntimeconfig.cache
